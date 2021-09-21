@@ -1,4 +1,7 @@
 .DS_Store
-./react/babel-plugin/node_modules/*
-./react/300line/node_modules/*
+./react/babel-plugin/node_modules/
+./react/300line/node_modules/
+*node_modules/*
+node_modules/
+**/node_modules
 .vscode
